@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shobhamalviya5798@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E2jZEjvKRtdJDnhdLVKeHPWF8TaO1_hG/view?usp=sharing](https://drive.google.com/file/d/1E2jZEjvKRtdJDnhdLVKeHPWF8TaO1_hG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RxkhgmmAGcDNUa1_UHYvxeOaYvpoJZTl/view?usp=sharing](https://drive.google.com/file/d/1RxkhgmmAGcDNUa1_UHYvxeOaYvpoJZTl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
