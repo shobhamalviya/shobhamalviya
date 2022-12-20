@@ -1,11 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I am Shobha Malviya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I am keen and enthusiastic to apply what I have learned to build products and services that will help people. I see myself working in an organisation which creates innovative user-centric applications. I hope to continually challenge myself and grow with the organisation I am a part of.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobhamalviya" alt="shobhamalviya" /></a> </p>
 
 - 🌱 I’m currently learning **Advance React**
-
+- 💬 Ask me about **javascript,react,mongodb,redux**
 - 📫 How to reach me **shobhamalviya5798@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RxkhgmmAGcDNUa1_UHYvxeOaYvpoJZTl/view?usp=sharing](https://drive.google.com/file/d/1RxkhgmmAGcDNUa1_UHYvxeOaYvpoJZTl/view?usp=sharing)
